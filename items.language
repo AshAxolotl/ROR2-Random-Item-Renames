@@ -1,0 +1,32 @@
+{
+    "en": {
+		"ITEM_CRITGLASSES_NAME": "Crit Glasses",
+		"ITEM_ATTACKSPEEDANDMOVESPEED_NAME" : "Pumpkin Spice Latte",
+		"ITEM_SPRINTBONUS_NAME": "Snepis",
+		"ITEM_BLEEDONHITANDEXPLODE_NAME" : "Boxingspleen",
+        "ITEM_CLOVERVOID_NAME": "OOPS! All Reds",
+        "ITEM_LUNARSUN_NAME": "Fuck it, we ball",
+        "EQUIPMENT_GATEWAY_NAME" : "Pillars, what pillars?",
+
+        "EQUIPMENT_TONIC_NAME" : "Drugs",
+        "ITEM_TONICAFFLICTION_NAME": "NO Turing Back",
+
+        "ITEM_MUSHROOM_NAME": "Bungus",
+		"ITEM_MUSHROOMVOID_NAME": "Wungus",
+
+		"ITEM_FLATHEALTH_NAME" : "Scrapper Food",
+        "ITEM_SQUIDTURRET_NAME" : "Organic Scrapper Food",
+        "ITEM_MINORCONSTRUCTONKILL_NAME": "Scrapper Food Gold Edition",
+        
+        "ITEM_BEAR_NAME": "nuh uh",
+        "ITEM_BEARVOID_NAME" : "hu hun",
+        "ITEM_EXTRALIFE_NAME": "NUH UH!",
+        "ITEM_EXTRALIFECONSUMED_NAME": "NUH UH! (Eaten)",
+        "ITEM_EXTRALIFEVOID_NAME": "!HU HUN",
+        "ITEM_EXTRALIFEVOIDCONSUMED_NAME": "!HU HUN (Eaten)",
+
+		"ITEM_LUNARTRINKET_NAME" : "Anal Beads of Fealty",
+		"ITEM_LUNARTRINKET_PICKUP" : "Seems to do nothing...  <style=cDeath>but with the right mindset...</color>\n",
+		"ITEM_LUNARTRINKET_DESC" : "Seems to do nothing... <style=cDeath>but with the right mindset...</color>\n"
+    }
+}

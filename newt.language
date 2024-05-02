@@ -1,0 +1,33 @@
+{
+    "en": {
+        "MAP_BAZAAR_TITLE" : "Hidden Realm: \"Pharmacy\" Between Time",
+        "MAP_BAZAAR_SUBTITLE" : "Meth Lab",
+        "UNLOCKABLE_LOG_STAGES_BAZAAR": "Environment Log: \"Pharmacy\" Between Time",
+   
+        "SHOPKEEPER_BODY_NAME": "Waltuh the Newt",
+        "NEWT_STATUE_NAME" : "Waltuh Altar",
+        "NEWT_STATUE_CONTEXT" : "Donate to Waltuh Altar",
+
+        "VOID_SUPPRESSOR_FAKE_NAME": "Waltuh Altar?",
+        "VOID_SUPPRESSOR_FAKE_CONTEXT" : "Donate to Waltuh Altar?",
+
+        "NEWT_UPGRADE_1": "Yes yes. We will cook both ways. Both ways.",
+		"NEWT_UPGRADE_2": "More meth. Good good good.",
+		"NEWT_UPGRADE_3": "Good meth. Will smoke both ways. Both!",
+		"NEWT_LUNAR_PURCHASE_1": "That cook went badly. Badly last batch. Try again.",
+		"NEWT_LUNAR_PURCHASE_2": "Good crystal. Good good.",
+		"NEWT_LUNAR_PURCHASE_3": "Crystal is clearer. Clear.",
+		"NEWT_LUNAR_PURCHASE_4": "Strange cook. Strange methlamine.",
+		"NEWT_LUNAR_PURCHASE_5": "Your batch is small. Will be back soon.",
+		"NEWT_LUNAR_PURCHASE_6": "Will remember this cook.",
+		"NEWT_LUNAR_PURCHASE_7": "Clear. Clear like glass.",
+		"NEWT_LUNAR_PURCHASE_8": "Cooked by Providence. Cooked?",
+
+		"NEWT_ANNOY_1": "Again again. Everytime.",
+		"NEWT_ANNOY_2": "Remake. Out of forever.",
+		"NEWT_ANNOY_3": "Bad bad. Do not bother.",
+		"NEWT_ANNOY_4": "Bad. Will smoke into forget.",
+		"NEWT_ANNOY_5": "Will narrow your batch. Bad.",
+		"NEWT_ANNOY_6": "Stop stop. Bad bad."
+    }
+}

@@ -1,22 +1,18 @@
 {
   "en": {
-		"ITEM_MUSHROOM_NAME": "Bungus",
-		"ITEM_MUSHROOMVOID_NAME": "Wungus",
-		"ITEM_CRITGLASSES_NAME": "Crit Glasses",
-		"ITEM_ATTACKSPEEDANDMOVESPEED_NAME" : "Pumpkin Spice Latte",
-		"ITEM_SPRINTBONUS_NAME": "Snepis",
-		"ITEM_BLEEDONHITANDEXPLODE_NAME" : "Boxingspleen",
-		"ITEM_FLATHEALTH_NAME" : "Scrapper Food",
-
-		"ITEM_LUNARTRINKET_NAME" : "Anal Beads of Fealty",
-		"ITEM_LUNARTRINKET_PICKUP" : "Seems to do nothing...  <style=cDeath>but with the right mindset...</color>\n",
-		"ITEM_LUNARTRINKET_DESC" : "Seems to do nothing... <style=cDeath>but with the right mindset...</color>\n",
-
 		"VOIDLOCKBOX_NAME": "Void Pimple",
 		"VOIDLOCKBOX_CONTEXT": "Open Void Pimple (Encrusted Cache)",
 
 		"JELLYFISH_BODY_NAME": "JellySquid",
-		"UNLOCKABLE_LOG_JELLYFISH": "Monster Log: Jellysquid"
+		"UNLOCKABLE_LOG_JELLYFISH": "Monster Log: Jellysquid",
 
+		"MEGACONSTRUCT_BODY_NAME" : "Sigh Construct",
+
+		"MAP_GOLDSHORES_SUBTITLE": "4 Free Chests!",
+
+		"SHRINE_BOSS_CONTEXT": "CLICK ME, USE ME, DO IT",
+		
+		"SCAVBACKPACK_NAME" : "Scavenger's Bag",
+		"SCAVBACKPACK_CONTEXT" : "Grave robbery, tomb robbing, or tomb raiding is the act of uncovering a grave, tomb or crypt to steal commodities. It is usually perpetrated to take and profit from valuable artefacts or personal property."
   }
 }

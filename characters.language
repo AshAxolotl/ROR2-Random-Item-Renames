@@ -1,0 +1,19 @@
+{
+    "en": {
+        //[CHARACTER]
+        "COMMANDO_BODY_NAME": "Mander",
+        "MERC_BODY_NAME": "Senpaiii~",
+        "ENGI_BODY_NAME": "Bungus Enthusiast",
+        "HUNTRESS_BODY_NAME": "Ranger 34",
+        "MAGE_BODY_NAME": "Fartificer",
+        "TOOLBOT_BODY_NAME": "MIN-GUS",
+        "TREEBOT_BODY_NAME": "Cabbag",
+        "LOADER_BODY_NAME": "Trans Representation",
+        "CROCO_BODY_NAME" : "Best Boi",
+        "CAPTAIN_BODY_NAME" : "\"I speak for the drones\"",
+        "BANDIT2_BODY_NAME": "Piracy :)",
+        "HERETIC_BODY_NAME": "birb",
+        "RAILGUNNER_BODY_NAME": "\"She could rail me anytime\"",
+        "VOIDSURVIVOR_BODY_NAME": "「V??oid :( 』"
+    }
+}
