@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Use checkout to publish the files in your repo
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4.2
       - uses: GreenTF/upload-thunderstore-package@v4.2
         with:
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
