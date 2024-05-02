@@ -11,16 +11,14 @@ jobs:
     steps:
       # Use checkout to publish the files in your repo
       - uses: actions/checkout@v3
-      - name: Upload Thunderstore Package
       - uses: GreenTF/upload-thunderstore-package@v4.3
         with:
-          token: ${{ secrets.THUNDERSTORE_TOKEN }}
+          token: ${{secrets.THUNDERSTORE_TOKEN}}
           community: riskofrain2 
           namespace: AshAxolotl
           name: Random_Item_Renames
           description: a few stupid item renames 
-          version: ${{ github.ref_name }} # Use the tag as the package version
+          version: ${{github.ref_name}} # Use the tag as the package version
           nsfw: true
           categories: | 
             language
-          #deps: ["bbepis-BepInExPack-5.3.1" "RiskofThunder-R2API_Language-1.0.1"]
