@@ -1,0 +1,9 @@
+{
+    "name": "Random_Item_Renames",
+    "version_number": "1.3.0",
+    "website_url": "",
+    "description": "a few stupid item renames",
+    "dependencies": [
+        "tristanmcpherson-R2API-4.3.5"
+    ]
+}

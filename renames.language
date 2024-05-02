@@ -1,0 +1,72 @@
+{
+  "en": {
+		"ITEM_MUSHROOM_NAME": "Bungus",
+		"ITEM_MUSHROOMVOID_NAME": "Wungus",
+		"ITEM_CRITGLASSES_NAME": "Crit Glasses",
+		"ITEM_ATTACKSPEEDANDMOVESPEED_NAME" : "Pumpkin Spice Latte",
+		"ITEM_SPRINTBONUS_NAME": "Snepis",
+		"ITEM_BLEEDONHITANDEXPLODE_NAME" : "Boxingspleen",
+		"ITEM_FLATHEALTH_NAME" : "Scrapper Food",
+
+		"ITEM_LUNARTRINKET_NAME" : "Anal Beads of Fealty",
+		"ITEM_LUNARTRINKET_PICKUP" : "Seems to do nothing... <color=#FF7F7F>but with the right mindset...</color>\n",
+		"ITEM_LUNARTRINKET_DESC" : "Seems to do nothing... <color=#FF7F7F>but with the right mindset...</color>\n",
+
+		"VOIDLOCKBOX_NAME": "Void Pimple",
+		"VOIDLOCKBOX_CONTEXT": "Open Void Pimple (Encrusted Cache)",
+
+		"JELLYFISH_BODY_NAME": "JellySquid",
+		"UNLOCKABLE_LOG_JELLYFISH": "Monster Log: Jellysquid",
+
+		//[HURT BROTHER],
+		"BROTHER_SPAWN_PHASE1_1": "Hewwo~",
+		"BROTHER_SPAWN_PHASE1_2": "OwO what's this?~",
+		"BROTHER_SPAWN_PHASE1_3": "Die vewmin~",
+		"BROTHER_SPAWN_PHASE1_4": "be swaughtewed~",
+
+		"BROTHER_DAMAGEDEALT_1": "bweed.",
+		"BROTHER_DAMAGEDEALT_2": "Nyow iws the time fow feaw.",
+		"BROTHER_DAMAGEDEALT_3": "Weak~.",
+		"BROTHER_DAMAGEDEALT_4": "Fwaiw - awnd soft. (just like my c---)",
+		"BROTHER_DAMAGEDEALT_5": "Ywu awe nothing.",
+		"BROTHER_DAMAGEDEALT_6": "Mistake. (is what u'we mom cawwed u wast nyight)",
+		"BROTHER_DAMAGEDEALT_7": "Scweam, vewmin.",
+		"BROTHER_DAMAGEDEALT_8": "Bweak beneath me.",
+		"BROTHER_DAMAGEDEALT_9": "Swow.",
+		"BROTHER_DAMAGEDEALT_10": "Youw body wiww shattew.",
+
+		"BROTHER_KILL_1": "Wetuwn tuwu diwt."
+		"BROTHER_KILL_2": "Submit, vewmin.",
+		"BROTHER_KILL_3": "Die, vewmin.",
+		"BROTHER_KILL_4": "Die, weakwing.",
+		"BROTHER_KILL_5": "Become memowies.",
+
+		//[HURT BROTHER],
+		"BROTHERHURT_DAMAGEDEALT_1": "BWEED.",
+		"BROTHERHURT_DAMAGEDEALT_2": "SCWEAM.",
+		"BROTHERHURT_DAMAGEDEALT_3": "WHEWE'S YOUW INFWUENCE?",
+		"BROTHERHURT_DAMAGEDEALT_4": "FWEETING STWENGTH.",
+		"BROTHERHURT_DAMAGEDEALT_5": "FWAIW.",
+		"BROTHERHURT_DAMAGEDEALT_6": "BWEAK.",
+		"BROTHERHURT_DAMAGEDEALT_7": "FAWSE STWENGTH.",
+		"BROTHERHURT_DAMAGEDEALT_8": "DWAIN.",
+		"BROTHERHURT_DAMAGEDEALT_9": "DIE, VEWMIN.",
+		"BROTHERHURT_DAMAGEDEALT_10": "WEAK, WITHOUT YOUW BAUBWES AWND TWINKETS.",
+
+		"BROTHERHURT_KILL_1": "L + Watio",
+		"BROTHERHURT_KILL_2": "Skiww Issue.",
+		"BROTHERHURT_KILL_3": "Imagine being so bad.",
+		"BROTHERHURT_KILL_4": "Get bettew...",
+		"BROTHERHURT_KILL_5": "Go thouch gwass.",
+
+		"BROTHERHURT_DEATH_1": "NYO... NOWT NYOW...",
+		"BROTHERHURT_DEATH_2": "WHY... WHY NYOW...?",
+		"BROTHERHURT_DEATH_3": "NYO... NYO...!",
+		"BROTHERHURT_DEATH_4": "BWOTHEW... HEWP ME...!",
+		"BROTHERHURT_DEATH_5": "THIS PWANYE GWOWS DAWK... BWOTHEW... I CANNYOT SEE u... WHEWE r u...?",
+		"BROTHERHURT_DEATH_6": "BWOTHEW... PEWHAPS... WE WIWW GET IT WIGHT... NYEXT TIME...",
+
+		"BROTHERHURT_SEE_TITANGOLD_1": "THE GUAWDIAN...? IMPOSSIBWE...! >:3",
+		"BROTHERHURT_SEE_TITANGOLD_2": "THE WWETCHED GUAWDIAN...! >:3",
+  }
+}
