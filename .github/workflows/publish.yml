@@ -14,7 +14,7 @@ jobs:
       - uses: GreenTF/upload-thunderstore-package@v4.2
         with:
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
-#          community: risk_of_rai
+          community: riskofrain2 
           namespace: AshAxolotl
           name: Random_Item_Renames
           description: a few stupid item renames 
