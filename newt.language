@@ -5,11 +5,11 @@
         "UNLOCKABLE_LOG_STAGES_BAZAAR": "Environment Log: \"Pharmacy\" Between Time",
    
         "SHOPKEEPER_BODY_NAME": "Waltuh the Newt",
-        "NEWT_STATUE_NAME" : "Waltuh Altar",
-        "NEWT_STATUE_CONTEXT" : "Donate to Waltuh Altar",
+        "NEWT_STATUE_NAME" : "Waltar",
+        "NEWT_STATUE_CONTEXT" : "Donate to Waltar",
 
-        "VOID_SUPPRESSOR_FAKE_NAME": "Waltuh Altar?",
-        "VOID_SUPPRESSOR_FAKE_CONTEXT" : "Donate to Waltuh Altar?",
+        "VOID_SUPPRESSOR_FAKE_NAME": "Waltar?",
+        "VOID_SUPPRESSOR_FAKE_CONTEXT" : "Donate to Waltar?",
 
         "NEWT_UPGRADE_1": "Yes yes. We will cook both ways. Both ways.",
 		"NEWT_UPGRADE_2": "More meth. Good good good.",

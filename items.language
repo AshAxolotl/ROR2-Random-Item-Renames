@@ -7,14 +7,15 @@
         "ITEM_CLOVERVOID_NAME": "OOPS! All Reds",
         "ITEM_LUNARSUN_NAME": "Fuck it, we ball",
         "EQUIPMENT_GATEWAY_NAME" : "Pillars, what pillars?",
+        "ITEM_RESETCHESTS_NAME": "Schizo Shell",
 
         "EQUIPMENT_TONIC_NAME" : "Drugs",
-        "ITEM_TONICAFFLICTION_NAME": "NO Turing Back",
+        "ITEM_TONICAFFLICTION_NAME": "NO Alen Turing Back",
 
         "ITEM_MUSHROOM_NAME": "Bungus",
 		"ITEM_MUSHROOMVOID_NAME": "Wungus",
 
-		"ITEM_FLATHEALTH_NAME" : "Scrapper Food",
+		"ITEM_FLATHEALTH_NAME" : "False Son Snack",
         "ITEM_SQUIDTURRET_NAME" : "Organic Scrapper Food",
         "ITEM_MINORCONSTRUCTONKILL_NAME": "Scrapper Food Gold Edition",
         "ITEM_TPHEALINGNOVA_NAME" : "Scrapton Daisy",
@@ -29,5 +30,11 @@
 		"ITEM_LUNARTRINKET_NAME" : "Anal Beads of Fealty",
 		"ITEM_LUNARTRINKET_PICKUP" : "Seems to do nothing...  <style=cDeath>but with the right mindset...</color>\n",
 		"ITEM_LUNARTRINKET_DESC" : "Seems to do nothing... <style=cDeath>but with the right mindset...</color>\n"
+    
+        "EQUIPMENT_HEALANDREVIVE_NAME": "Sperm",
+        "EQUIPMENT_HEALANDREVIVECONSUMED_NAME": "Sperm (Consumed)",
+
+        "ITEM_LOWERPRICEDCHESTS_NAME": "Don't stack me im scared",
+		"ITEM_LOWERPRICEDCHESTSCONSUMED_NAME": "Should have used me on the legendary (Consumed)",
     }
 }
